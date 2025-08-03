@@ -1,0 +1,13 @@
+{
+  "itemGroup.superheroesadventure": "Example Mod Tab",
+  "block.superheroesadventure.example_block": "Example Block",
+  "item.superheroesadventure.example_item": "Example Item",
+
+  "superheroesadventure.configuration.title": "SuperHeroes Adventure Configs",
+  "superheroesadventure.configuration.section.superheroesadventure.common.toml": "SuperHeroes Adventure Configs",
+  "superheroesadventure.configuration.section.superheroesadventure.common.toml.title": "SuperHeroes Adventure Configs",
+  "superheroesadventure.configuration.items": "Item List",
+  "superheroesadventure.configuration.logDirtBlock": "Log Dirt Block",
+  "superheroesadventure.configuration.magicNumberIntroduction": "Magic Number Text",
+  "superheroesadventure.configuration.magicNumber": "Magic Number"
+}
